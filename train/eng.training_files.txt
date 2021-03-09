@@ -1,0 +1,8 @@
+train/eng.BPchildLefty.exp0.lstmf
+train/eng.CakorAyam.exp0.lstmf
+train/eng.Damia's_Hand.exp0.lstmf
+train/eng.Indie_Flower.exp0.lstmf
+train/eng.Light_and_Airy.exp0.lstmf
+train/eng.Pizza_is_my_FAVORITE.exp0.lstmf
+train/eng.Tommy's_First_Alphabet.exp0.lstmf
+train/eng.Two_Turtle_Doves.exp0.lstmf
